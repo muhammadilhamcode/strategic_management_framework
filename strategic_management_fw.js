@@ -1,0 +1,1 @@
+// strategic managsment framework 
